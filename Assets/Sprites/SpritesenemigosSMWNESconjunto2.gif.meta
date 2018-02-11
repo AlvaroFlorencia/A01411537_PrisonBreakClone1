@@ -1,0 +1,1187 @@
+fileFormatVersion: 2
+guid: 0e256007a83bbf445ac3a1ccf6b2f8be
+timeCreated: 1518331247
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpritesenemigosSMWNESconjunto2_0
+    21300002: SpritesenemigosSMWNESconjunto2_1
+    21300004: SpritesenemigosSMWNESconjunto2_2
+    21300006: SpritesenemigosSMWNESconjunto2_3
+    21300008: SpritesenemigosSMWNESconjunto2_4
+    21300010: SpritesenemigosSMWNESconjunto2_5
+    21300012: SpritesenemigosSMWNESconjunto2_6
+    21300014: SpritesenemigosSMWNESconjunto2_7
+    21300016: SpritesenemigosSMWNESconjunto2_8
+    21300018: SpritesenemigosSMWNESconjunto2_9
+    21300020: SpritesenemigosSMWNESconjunto2_10
+    21300022: SpritesenemigosSMWNESconjunto2_11
+    21300024: SpritesenemigosSMWNESconjunto2_12
+    21300026: SpritesenemigosSMWNESconjunto2_13
+    21300028: SpritesenemigosSMWNESconjunto2_14
+    21300030: SpritesenemigosSMWNESconjunto2_15
+    21300032: SpritesenemigosSMWNESconjunto2_16
+    21300034: SpritesenemigosSMWNESconjunto2_17
+    21300036: SpritesenemigosSMWNESconjunto2_18
+    21300038: SpritesenemigosSMWNESconjunto2_19
+    21300040: SpritesenemigosSMWNESconjunto2_20
+    21300042: SpritesenemigosSMWNESconjunto2_21
+    21300044: SpritesenemigosSMWNESconjunto2_22
+    21300046: SpritesenemigosSMWNESconjunto2_23
+    21300048: SpritesenemigosSMWNESconjunto2_24
+    21300050: SpritesenemigosSMWNESconjunto2_25
+    21300052: SpritesenemigosSMWNESconjunto2_26
+    21300054: SpritesenemigosSMWNESconjunto2_27
+    21300056: SpritesenemigosSMWNESconjunto2_28
+    21300058: SpritesenemigosSMWNESconjunto2_29
+    21300060: SpritesenemigosSMWNESconjunto2_30
+    21300062: SpritesenemigosSMWNESconjunto2_31
+    21300064: SpritesenemigosSMWNESconjunto2_32
+    21300066: SpritesenemigosSMWNESconjunto2_33
+    21300068: SpritesenemigosSMWNESconjunto2_34
+    21300070: SpritesenemigosSMWNESconjunto2_35
+    21300072: SpritesenemigosSMWNESconjunto2_36
+    21300074: SpritesenemigosSMWNESconjunto2_37
+    21300076: SpritesenemigosSMWNESconjunto2_38
+    21300078: SpritesenemigosSMWNESconjunto2_39
+    21300080: SpritesenemigosSMWNESconjunto2_40
+    21300082: SpritesenemigosSMWNESconjunto2_41
+    21300084: SpritesenemigosSMWNESconjunto2_42
+    21300086: SpritesenemigosSMWNESconjunto2_43
+    21300088: SpritesenemigosSMWNESconjunto2_44
+    21300090: SpritesenemigosSMWNESconjunto2_45
+    21300092: SpritesenemigosSMWNESconjunto2_46
+    21300094: SpritesenemigosSMWNESconjunto2_47
+    21300096: SpritesenemigosSMWNESconjunto2_48
+    21300098: SpritesenemigosSMWNESconjunto2_49
+    21300100: SpritesenemigosSMWNESconjunto2_50
+    21300102: SpritesenemigosSMWNESconjunto2_51
+    21300104: SpritesenemigosSMWNESconjunto2_52
+    21300106: SpritesenemigosSMWNESconjunto2_53
+    21300108: SpritesenemigosSMWNESconjunto2_54
+    21300110: SpritesenemigosSMWNESconjunto2_55
+    21300112: SpritesenemigosSMWNESconjunto2_56
+    21300114: SpritesenemigosSMWNESconjunto2_57
+    21300116: SpritesenemigosSMWNESconjunto2_58
+    21300118: SpritesenemigosSMWNESconjunto2_59
+    21300120: SpritesenemigosSMWNESconjunto2_60
+    21300122: SpritesenemigosSMWNESconjunto2_61
+    21300124: SpritesenemigosSMWNESconjunto2_62
+    21300126: SpritesenemigosSMWNESconjunto2_63
+    21300128: SpritesenemigosSMWNESconjunto2_64
+    21300130: SpritesenemigosSMWNESconjunto2_65
+    21300132: SpritesenemigosSMWNESconjunto2_66
+    21300134: SpritesenemigosSMWNESconjunto2_67
+    21300136: SpritesenemigosSMWNESconjunto2_68
+    21300138: SpritesenemigosSMWNESconjunto2_69
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 293
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 293
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 293
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 293
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 293
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 293
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 293
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_7
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 293
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_8
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 293
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_9
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 293
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_10
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 293
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_11
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 293
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 226
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 226
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 232
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 226
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_17
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 226
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_18
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 232
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_19
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 226
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_20
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 226
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_21
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 232
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_22
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 226
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_23
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 226
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 158
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_26
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 158
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_27
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 158
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_28
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 158
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_29
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 158
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_30
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 158
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_31
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 158
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_32
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 158
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_33
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 158
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_34
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 158
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_35
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 162
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_36
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 162
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_37
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 162
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_38
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 162
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_40
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 74
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_41
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 74
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_42
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 74
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_43
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 74
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_44
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 74
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_45
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 74
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_46
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 74
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_47
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 74
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_48
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 74
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_49
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 78
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_50
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 74
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_51
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 74
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_52
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 74
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_53
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 74
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_55
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 6
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_56
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 6
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_57
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 6
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_58
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 6
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_59
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 8
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_60
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 6
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_61
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_62
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 6
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_63
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 6
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_64
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 6
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_65
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 6
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_66
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 6
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_67
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 6
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_68
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 6
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesenemigosSMWNESconjunto2_69
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 6
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
